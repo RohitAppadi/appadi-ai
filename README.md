@@ -1,4 +1,4 @@
-# ✨ APPADI – Minimal AI Assistant for Smarter Automation
+# ✨ Ask Appadi – Minimal AI Assistant for Smarter Automation
 
 ## A weekend coding practice with my dad which included us exploring AI and learning Ollama, led to a fully working context aware AI assistant helping you build smarter using previous data.
 APPADI started as a weekend learning project with my father, where we explored AI workflows and Ollama. It grew into a fully working, context-aware AI assistant that helps developers automate technical tasks using previous data and local LLMs.
