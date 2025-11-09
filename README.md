@@ -31,7 +31,7 @@ APPADI started as a weekend learning project with my father, where we explored A
 
 ## 📦 Installation
 
-git clone https://github.com/your-username/appadi.git
+git clone https://github.com/RohitAppadi/appadi-ai
 cd appadi
 npm install
 
